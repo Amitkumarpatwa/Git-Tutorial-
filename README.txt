@@ -26,3 +26,6 @@ It captures a snapshot of the project's staged changes and create a version out 
 
 10. 'git restore <file>' -> it removes all files chnages from the staging area to be committed .This can be useful, if we did some dirty piece of code and now no more wanted ,instead of deleting every change line by line , we can restore it
 or restore last version
+
+11.'git restore --staged <file>'-> it remove file from staging area to the working area.this only works if changes are in your staging area
+
