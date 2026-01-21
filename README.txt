@@ -29,3 +29,5 @@ or restore last version
 
 11.'git restore --staged <file>'-> it remove file from staging area to the working area.this only works if changes are in your staging area
 
+12. Diff between git rm and git restore
+ans:
