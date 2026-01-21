@@ -52,3 +52,7 @@ ans: if you want to move the whole file back to the untracked state,then we do g
 19.'git remote rename <oldname> <newname>' -> this command rename the remote connection
 
 note: the name of the remote connection is always used to establish communication between the repo
+
+20.`git add <file1> <file2> ..` -> this command will add multiple file changes together in the staging area
+
+21.`git add .` -> this command add all file in the staging area
