@@ -34,3 +34,21 @@ ans: if you want to move the whole file back to the untracked state,then we do g
 
 8b51fb62352612d965674c97c05254f429e6426f
 71b5230323262808b68bd124628a7b86d54c97b2
+
+13. 'git diff commit1 commit2' -> gives the difference of all files changes between two commits
+
+14. 'git commit -m"your message"'-> if you dont want to open vim editor follow this command
+
+15. 'git remote' -> list down all the remote connection names
+
+16. Remote connection ->It help you to link two git repository for uploading and downloading changes from each otherwise
+
+17. 'git remote add <name of remote connection> <link of remote connection>' -> this command helps us to add a new link to the remote repo and give a name to it
+
+
+18.'git remote rm <name of remote>' -> this command deletes remote connection
+
+
+19.'git remote rename <oldname> <newname>' -> this command rename the remote connection
+
+note: the name of the remote connection is always used to establish communication between the repo
