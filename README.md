@@ -67,3 +67,5 @@ note: the name of the remote connection is always used to establish communicatio
     -git commit
     -git pull
     -git push
+
+23. `Merge confit` ->when multiple people work on the same file pr project
