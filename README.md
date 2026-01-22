@@ -67,3 +67,5 @@ note: the name of the remote connection is always used to establish communicatio
     -git commit
     -git pull
     -git push
+
+23.`merge conflict`-> multiple people accessing same file and folder at same time.
